@@ -37,12 +37,40 @@ On completion of this unit you will be able to:
 
 ---
 
-## Unit Content & Assessment 
+## Unit Content & Assessment - HAND IN DATE Wed 10/06/2020 by 4pm/ EXTENDED DATE Wed 24/06/2020 by 4pm
 
 **Unit Assessment Summary -  This unit is assessed holistically**  
 **Assignment Description (2,000 words essay)**
 
-+ Essay brief will be updated as soon as possible.
++ The purpose of this project is to position yourself critically within the landscape of creative computing (theory & practice) & to identify a strategy plan outlining how you will begin to impact in this area.
+
++ This project is one in which you are required to consider your own position in the world of creative computing. It is a project that demands critical self-reflection of your own interests, skills and expertise based on an in-depth consideration of the work already carried out on the course. You will draw upon a number of sources in doing this. 
+
++ You will need to produce an essay giving:
+
+1. An introduction to an issue that interests you in the worlds of creativity and creative computing (as we encompass it on the course).
+
+2. A coherent, critical analysis of the arguments from a selection of texts that are relevant to this issue (some can be from the reading list). This section will be your mapping of the theoretical area relating to your issue of interest. 
+
+3. An analysis of the key practitioners (artists, creatives, designers, organisations/companies etc.) that work in this area—examining between three and five examples of practice. This will be your mapping of the practical area relating to your issue of interest.
+
+4.  A concluding section which situates yourself, strategically, within the theoretical and practical areas you have mapped. This is where you describe what your strategy is for entering this area upon leaving university.
+
++ Your essay should be formatted as follows
+
+1. Title Page, stating: Name, Number from your Student ID, Unit & Project Title, Number ofWords, Date of Submission.
+
+2. Main body, structured as follows:
+   + Introduction. Introduce & outline the creative area that interests you. 
+   + Literature Review. Critically evaluate the theoretical literature in this area. 
+   + Practice Examples. Identify and critically examine the key practitioners in this area: provide between three & five examples of practice.
+   + Conclusion. Conclude by locating the possible future strategic opportunities for you as a creative practitioner in the area you’ve mapped by identifying where you might be & what you need to do to get there. 
+
+3. List of images, if used.
+
+4. References, properly formatted.
+
++ Please remember, that you must reference all your quotations fully &properly, using the Harvard convention (see UAL’s guide: Cite Them Right).
 
 ---
 
@@ -67,7 +95,7 @@ On completion of this unit you will be able to:
 
 **Research Presentation Tips (from Irene Fubara-Manuel)**:
 
-+ Contextualise the chosen subject, within the proper historical, political, cultural, and artistic environment.
++ Contextualize the chosen subject, within the proper historical, political, cultural, and artistic environment.
 
 + Illustrate with videos, images, and text, the key pieces in the subject's portfolio.
 
@@ -92,7 +120,7 @@ BARTON, G. (2016). Don't get a job... make a job how to make it as a creative gr
 ---
 
 ## Weekly Schedule (Will be updated weekly)
-### Week 1 (12th February)
+### Week 1 (11th February 2020)
 Seminar: So you want to be a creative in a digital world?
 \\\\ Intro to Alex Fefegha's practice and the different ways of providing for himself + the class sharing about the creatives that inspire their practice. 
 
@@ -109,7 +137,7 @@ N/A
 
 ---
 
-### Week 2 (9th October)
+### Week 2 (19th February 2020)
 Seminar: Steal like an Artist
 \\\\ An introduction to the book Steal like an Artist by Austin Kleon + watch a talk by Zach Lieberman on the creative career of the future.
 
@@ -125,5 +153,60 @@ N/A
 
 **Recommended Reading:**  
 KLEON, A. (2012). Steal like an artist: 10 things nobody told you about being creative.
+
+---
+
+### Week 3 (26th February 2020)
+Workshop: Your Action Plan / Vision session 
+\\\\ A introduction to essay for the module, a workshop for the class to plan their next steps in two years. 
+
+**Homework:**  
+
++ Read:
+N/A
+
++ Listen:
+
++ Using the principles thought in class:
+N/A
+
+**Recommended Reading:**  
+
+---
+
+
+### Week 4 (4th March 2020)
+Guest Lecture/Studio Visit TBC
+\\\\ Please check Slack for updates.
+
+**Homework:**  
+
++ Read:
+N/A
+
++ Listen:
+
++ Using the principles thought in class:
+N/A
+
+**Recommended Reading:**  
+
+---
+
+### Week 5 (11th March 2020)
+Guest Lecture: Matt Jones, Principal Designer, Google AI
+\\\\ Please check Slack for updates.
+
+**Homework:**  
+
++ Read:
+N/A
+
++ Listen:
+
++ Using the principles thought in class:
+N/A
+
+**Recommended Reading:**  
 
 ---
