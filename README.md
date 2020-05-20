@@ -111,11 +111,31 @@ On completion of this unit you will be able to:
 
 ## Reading List (Will be updated weekly)
 
-KLEON, A. (2012). Steal like an artist: 10 things nobody told you about being creative.
+Kleon, A. (2012). Steal like an artist: 10 things nobody told you about being creative.
 
-CAMERON, J. (2002). The artist's way: a spiritual path to higher creativity. New York, J.P. Tarcher/Putnam.
+Cameron, J. (2002). The artist's way: a spiritual path to higher creativity. New York, J.P. Tarcher/Putnam.
 
-BARTON, G. (2016). Don't get a job... make a job how to make it as a creative graduate. London, Laurence King
+Barton, G. (2016). Don't get a job... make a job how to make it as a creative graduate. London, Laurence King
+
+Baxter, L. (2017) Running a Creative Company in the Digital Age: How to successfully set up your own media company. Oldcastle Books Ltd.
+
+Kare-Silver, M. de (2016) Building the 2020 Digital team. Troubador Publishing Ltd.
+
+Kocienda, K. (2018) Creative Selection: Inside Apple’s Design Process During the Golden Age of Steve Jobs. Pan Macmillan.
+
+Lewrick, M., Link, P. and Leifer, L. (2018) The Design Thinking Playbook: Mindful Digital Transformation of Teams, Products, Services, Businesses and Ecosystems. John Wiley & Sons.
+
+## Further Reading
+
+Eubanks, V. (2018) Automating Inequality: How High - Tech Tools Profile, Police, and Punish the Poor. St. Martin’s Press.
+
+Fisher, M. (2009). Capitalist Realism: Is There No Alternative? Zero Books.
+
+Lessig, Lawrence. (2005). Free Culture: The Nature and Future of Creativity. Penguin Books.
+
+Tavani, H.T. (2011) Ethics and Technology: Controversies, Questions, and Strategies for Ethical Computing. John Wiley & Sons.
+
+Tozzi, C. (2017). For Fun and Profit. MIT Press.
 
 ---
 
@@ -176,7 +196,7 @@ N/A
 
 
 ### Week 4 (4th March 2020)
-Guest Lecture/Studio Visit TBC
+Studio Visit to Ustwo
 \\\\ Please check Slack for updates.
 
 **Homework:**  
@@ -211,8 +231,28 @@ N/A
 
 ---
 
-### Week 6 (11th March 2020)
-Guest Lecture: Interview with Darren Tenkorang, CEO OF TRIM IT
+### Week 6 (15th April 2020)
+Virtual Lecture - Catch up + plan to move the class virtrually due to the impact of COVID-19.
+\\\\ Please check Slack for updates.
+
+**Homework:**  
+
++ Read:
+N/A
+
++ Listen:
+
++ Using the principles thought in class:
+N/A
+
+**Recommended Reading:**  
+
+---
+
+
+### Week 7 (22th April 2020)
+Virtual Guest Lecture: Interview with Darren Tenkorang, CEO OF TRIM IT
+
 \\\\ This is Darren Tenkorang, Founder of Trim-IT, a uber style barber shop. His talk is about raising investment for your tech startup!
 
 [![](http://img.youtube.com/vi/zntX_GyO__E/0.jpg)](http://www.youtube.com/watch?v=zntX_GyO__E "Darren Tenkorang of Trim-IT")
@@ -231,3 +271,156 @@ N/A
 **Recommended Reading:**  
 
 ---
+
+### Week 8 (29th April 2020)
+Virtual Guest Lecture: Creative Coders Rifke Sadleir and Daniel Baragwanth talk about their career journey: how they got into creative code, how they met, an example of their work + the imposter syndrome faced + how they are navigating this current covid-19 season.
+
+[![](http://img.youtube.com/vi/rSAceJftZd0/0.jpg)](http://www.youtube.com/watch?v=rSAceJftZd0 "Daniel Baragwanath & Rifke Sadleir, DxR Zone")
+
+**Homework:**  
+
++ Read:
+N/A
+
++ Listen:
+
++ Using the principles thought in class:
+N/A
+
+**Recommended Reading:**  
+
+---
+
+### Week 9 (6th May 2020)
+Virtual Guest Lecture: Chrystal King, product designer at Depop talks about being an architecture student and ending up in the world of digital product design. 
+
+In this talk, she talks about a project she recently conducted at Depop + what she envisions the future designer to be like. 
+
+[![](http://img.youtube.com/vi/s7_P2hYRqC4/0.jpg)](http://www.youtube.com/watch?v=s7_P2hYRqC4 "Chrystal King, Depop")
+
+**Homework:**  
+
++ Read:
+N/A
+
++ Listen:
+
++ Using the principles thought in class:
+N/A
+
+**Recommended Reading:**  
+
+---
+
+### Week 10 (13th May 2020)
+Virtual Guest Lecture: This week I chat with Maya Man, an artist, dancer and technologist at the Google's Creative Lab. 
+
+We talk about her uni experience, talking about art and technology, how she got her job at Google + the people who inspire her work. 
+
+[Talk is here](https://drive.google.com/file/d/14bqHiyiG0-DlTA3HG8RuqJSGLrEEJi_m/view) 
+
+**Homework:**  
+
++ Read:
+N/A
+
++ Listen:
+
++ Using the principles thought in class:
+N/A
+
+**Recommended Reading:**  
+
+---
+
+### Week 11 (20th May 2020)
+Tutorials for Essay
+\\\\ Please check Slack for updates.
+
+**Homework:**  
+
++ Read:
+N/A
+
++ Listen:
+
++ Using the principles thought in class:
+N/A
+
+**Recommended Reading:**  
+
+---
+
+### Week 12 (27th May 2020)
+Tutorials for Essay
+\\\\ Please check Slack for updates.
+
+**Homework:**  
+
++ Read:
+N/A
+
++ Listen:
+
++ Using the principles thought in class:
+N/A
+
+**Recommended Reading:**  
+
+---
+
+
+### Week 13 (3rd June 2020)
+Tutorials for Essay
+\\\\ Please check Slack for updates.
+
+**Homework:**  
+
++ Read:
+N/A
+
++ Listen:
+
++ Using the principles thought in class:
+N/A
+
+**Recommended Reading:**  
+
+---
+
+### Week 14 (10th June 2020)
+Virtual Guest Lecture: Hyphen-Labs
+\\\\ Please check Slack for updates.
+
+**Homework:**  
+
++ Read:
+N/A
+
++ Listen:
+
++ Using the principles thought in class:
+N/A
+
+**Recommended Reading:**  
+
+---
+
+### Week 14 (17th June 2020)
+Cakes - Celebration!
+\\\\ Please check Slack for updates.
+
+**Homework:**  
+
++ Read:
+N/A
+
++ Listen:
+
++ Using the principles thought in class:
+N/A
+
+**Recommended Reading:**  
+
+---
+
