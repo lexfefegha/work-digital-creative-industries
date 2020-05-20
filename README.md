@@ -214,6 +214,7 @@ N/A
 ### Week 6 (11th March 2020)
 Guest Lecture: Interview with Darren Tenkorang, CEO OF TRIM IT
 \\\\ This is Darren Tenkorang, Founder of Trim-IT, a uber style barber shop. His talk is about raising investment for your tech startup!
+
 [![](http://img.youtube.com/vi/zntX_GyO__E/0.jpg)](http://www.youtube.com/watch?v=zntX_GyO__E "Darren Tenkorang of Trim-IT")
 
 
